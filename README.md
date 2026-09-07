@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://rainongotham.straw.page">
+  <a href="https://bwwayne.straw.page">
     <img src="https://img.shields.io/badge/STRAWPAGE-4FA7A7?style=for-the-badge&labelColor=2F3E46" alt="strawpage">
   </a>
   &nbsp;
